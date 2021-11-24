@@ -1,16 +1,14 @@
-### Hi there 👋
+### Prazer, Kauan, estudante de Tecnologia da Informação
 
-<!--
-**KauanApolinario/KauanApolinario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Curso técnico (TI) em andamento
+- Nível intermediário em C++ e C#
+- Estudando HTML5 e CSS3
+- Disponibilidade de 4h diárias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/KauanApolinario">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanApolinario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanApolinario&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
