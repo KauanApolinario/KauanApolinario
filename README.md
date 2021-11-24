@@ -1,5 +1,5 @@
-### Prazer, Kauan, estudante de Tecnologia da Informação
-
+### Prazer, me chamo Kauan e atualmente sou estudante de Tecnologia da Informação
+##
 
 - Curso técnico (TI) em andamento
 - Nível intermediário em C++ e C#
@@ -21,6 +21,16 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+  ##
   
+  <div> 
+    
+  <a href = "mailto:kauan.g.apolinario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kauan-g-apolinario-950628226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCUYYhNyLF53iy7UhtakdeRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 
+
+ 
+</div>
   
   
