@@ -6,6 +6,21 @@
 - Estudando HTML5 e CSS3
 - Disponibilidade de 4h diárias
 
+##
+
+  <div align="center"> 
+  
+  Redes Sociais ☕
+  
+  <a href = "mailto:kauan.g.apolinario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://t.me/KauanApolinario" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kauan-g-apolinario-950628226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCUYYhNyLF53iy7UhtakdeRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/KauanApolinario">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauanApolinario&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
@@ -23,15 +38,6 @@
   
   ##
   
-  <div> 
-    
-  <a href = "mailto:kauan.g.apolinario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://t.me/KauanApolinario" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/kauan-g-apolinario-950628226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/channel/UCUYYhNyLF53iy7UhtakdeRQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- 
 
- 
-</div>
   
   
