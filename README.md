@@ -1,4 +1,4 @@
-### Prazer, me chamo Kauan e atualmente sou estudante de Tecnologia da Informação! ☕
+### Prazer, chamo-me Kauan e atualmente sou estudante de Tecnologia da Informação! ☕
 ##
 
 - Curso técnico (TI) em andamento
