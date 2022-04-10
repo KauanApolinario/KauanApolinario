@@ -8,6 +8,7 @@
 - C++ intermediário;
 - JavaScript básico;
 - C# intermediário;
+- Python básico;
 - SQL básico;
 - PHP básico.
 
