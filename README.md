@@ -1,16 +1,16 @@
 ### Prazer, chamo-me Kauan e atualmente sou estudante de Tecnologia da Informação! ☕
 ##
 
-- Curso técnico (TI) em andamento;
-- Disponibilidade de 4h diárias;
-- HTML5 intermediário;
-- CSS3 intermediário;
-- C++ intermediário;
-- JavaScript básico;
-- C# intermediário;
-- Python básico;
-- SQL básico;
-- PHP básico.
+🐧 Curso técnico (TI) em andamento;<br>
+🐧 Disponibilidade de 4h diárias;<br>
+🐧 HTML5 intermediário;<br>
+🐧 CSS3 intermediário;<br>
+🐧 C++ intermediário;<br>
+🐧 JavaScript básico;<br>
+🐧 C# intermediário;<br>
+🐧 Python básico;<br>
+🐧 SQL básico;<br>
+🐧 PHP básico.
 
 
 ##
