@@ -31,7 +31,9 @@
   
   <div align="center"> 
    
-   <p>Redes Sociais ☕</p>
+   <a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=15&color=8665C8&center=true&vCenter=true&width=200&lines=Redes+Sociais+%F0%9F%92%BC">
+   </a>
   
   <a href = "mailto:kauan.g.apolinario@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://t.me/KauanApolinario" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
