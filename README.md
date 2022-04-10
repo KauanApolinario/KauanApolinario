@@ -11,7 +11,10 @@
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/85881624/151432026-6b8d1501-b8da-4723-a28f-386f16db6ac9.jpg" width="500px"/>
+   <a href="https://github.com/KauanApolinario">
+    <img src='https://github.com/KauanApolinario/KauanApolinario/blob/main/data-base.jpg' height='128px' weidth'128px' target="_blank"><br>
+     <img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&duration=3999&color=18F719&center=true&vCenter=true&lines=Ol%C3%A1%2C+meu+caro+%E2%98%95;Eis+aqui%2C+alguns+de+meus+feitos!">
+   </a>
 </div>
   
   
