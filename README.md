@@ -1,15 +1,13 @@
-### Prazer, chamo-me Kauan e atualmente sou estudante de Tecnologia da Informação! ☕
+### Prazer, Kauan, formado técnico em informática e cursando Tecnologia em Análise e Desenvolvimento de Sistemas! ☕
 ##
 
-🐧 Curso técnico (TI) em andamento;<br>
-🐧 Disponibilidade de 4h diárias;<br>
+🐧 SQL intermediário/avançado;<br>
 🐧 HTML5 intermediário;<br>
 🐧 CSS3 intermediário;<br>
 🐧 C++ intermediário;<br>
-🐧 JavaScript básico;<br>
 🐧 C# intermediário;<br>
+🐧 JavaScript básico;<br>
 🐧 Python básico;<br>
-🐧 SQL básico;<br>
 🐧 PHP básico.
 
 
