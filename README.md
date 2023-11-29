@@ -1,4 +1,4 @@
-### Prazer, Kauan, formado técnico em informática e cursando Tecnologia em Análise e Desenvolvimento de Sistemas! ☕
+### Meu nome é Kauan, tenho 19 anos sou formado técnico em informática e estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas! ☕
 ##
 
 🐧 SQL intermediário/avançado;<br>
@@ -6,7 +6,6 @@
 🐧 CSS3 intermediário;<br>
 🐧 C++ intermediário;<br>
 🐧 C# intermediário;<br>
-🐧 JavaScript básico;<br>
 🐧 Python básico;<br>
 🐧 PHP básico.
 
